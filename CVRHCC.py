@@ -83,7 +83,7 @@ with col2:
     st.markdown('<p class="subtitulo">Habilidades Técnicas</p>', unsafe_allow_html=True)
     st.markdown("""
     <ul class="texto">
-        <li>Python: pandas, matplotlib, NumPy, Streamlit, PySide6, PyQt5, PyQt6, scikit-learn (básico).</li>
+        <li>Python: pandas, matplotlib, NumPy, Streamlit, PySide6, PyQt5, PyQt6, scikit-learn.</li>
         <li>SPSS, R, Excel avanzado.</li>
         <li>ATLAS.ti para análisis cualitativo.</li>
         <li>LimeSurvey, Moodle, GitHub, PowerPoint.</li>

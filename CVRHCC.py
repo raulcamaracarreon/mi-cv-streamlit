@@ -107,7 +107,6 @@ with st.expander("**2023 - 2025: Dirección para la Evaluación de la Mejora de 
     <ul class="texto">
         <li>Desarrollo de indicadores estratégicos de infraestructura educativa.</li>
         <li>Automatización de reportes con Python y pandas.</li>
-        <li>Análisis multifuente y georreferenciado.</li>
         <li>Diseño de visualizaciones interactivas.</li>
     </ul>
     """, unsafe_allow_html=True)

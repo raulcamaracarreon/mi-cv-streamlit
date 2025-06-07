@@ -29,8 +29,11 @@ st.markdown("""
     </style>
     """, unsafe_allow_html=True)
 
-# Imagen en la esquina superior derecha
-st.image("RHCC_BN.png", width=100)
+st.markdown("""
+    <div style="position: absolute; top: 0; right: 0; padding: 10px;">
+        <img src="https://raw.githubusercontent.com/raulcamaracarreon/mi-cv-streamlit/main/RHCC_BN.png" width="80">
+    </div>
+""", unsafe_allow_html=True)
 
 # Título y actualización
 st.markdown('<p class="titulo">Raúl Cámara Carreón</p>', unsafe_allow_html=True)
@@ -99,7 +102,7 @@ st.markdown("""
 # Experiencia Laboral
 st.markdown('<p class="seccion">Experiencia Laboral</p>', unsafe_allow_html=True)
 
-with st.expander("**2023 - Actualidad: Dirección para la Evaluación de la Mejora de Políticas Públicas Educativas, MEJOREDU**", expanded=False):
+with st.expander("**2023 - 2025: Dirección para la Evaluación de la Mejora de Políticas Públicas Educativas, MEJOREDU**", expanded=False):
     st.markdown("""
     <ul class="texto">
         <li>Desarrollo de indicadores estratégicos de infraestructura educativa.</li>

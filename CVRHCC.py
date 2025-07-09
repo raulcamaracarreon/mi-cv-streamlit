@@ -321,4 +321,3 @@ try:
         st.download_button(label=label, data=file, file_name=cv_file, mime="application/pdf")
 except FileNotFoundError:
     st.warning("PDF file not found." if language == "English" else "El archivo PDF no ha sido encontrado.")
-

@@ -296,7 +296,7 @@ def contenido_espanol():
 
     # Idiomas y Distinciones
     st.markdown('<p class="seccion">Idiomas</p>', unsafe_allow_html=True)
-    st.markdown('<p class="texto">Inglés: Avanzado (90%)</p>', unsafe_allow_html=True)
+    st.markdown('<p class="texto">Inglés: Avanzado (80%)</p>', unsafe_allow_html=True)
 
     st.markdown('<p class="seccion">Distinciones</p>', unsafe_allow_html=True)
     st.markdown(
